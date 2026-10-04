@@ -1,0 +1,9 @@
+*.exe
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.git
+.gitignore
+.agents
+*.log
